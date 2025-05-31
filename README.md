@@ -16,7 +16,6 @@ This project is a simple PCB design using the Digistump ATtiny microcontroller, 
 | Male Header Pins          | 1 strip  |
 | PCB Board                 | 1        |
 
-> You may need to adapt these values based on your schematic and layout.
 
 ## Screenshots
 
